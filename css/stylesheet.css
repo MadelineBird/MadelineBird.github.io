@@ -32,7 +32,9 @@
     -o-background-size: cover;
     background-size:cover; 
   }*/
-
+#intro {
+  background-color: black;
+}
 /* codepen */
 #card-title {
   background-color: blue
@@ -163,6 +165,9 @@ section{
     -o-background-size: cover;
     background-size:cover;
 }
+/* #mountadv-container {
+  background-color: whitesmoke;
+} */
 #desert-container {
   background: url(https://images.unsplash.com/photo-1613169620329-6785c004d900?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -183,4 +188,21 @@ section{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size:cover;
+}
+
+/* contact page */
+#contact-hero {
+  background: url(https://images.unsplash.com/photo-1536607961765-592e80bcc19e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:cover;
+}
+
+/* footer */
+#foot-container {
+  background-color: #045676;
+}
+.fa-brands {
+  color: whitesmoke;
 }
