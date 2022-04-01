@@ -6,6 +6,10 @@
     background-size:cover;
   }
 
+  #adventfont {
+    font-family: 'Oswald', sans-serif;
+  }
+
 section{
   --background-dark: #2d3548;
   --text-light: rgba(255,255,255,0.6);
